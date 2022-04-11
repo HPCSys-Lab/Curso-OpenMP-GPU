@@ -1,3 +1,3 @@
-# HPC-101
+# Programe sue GPU com OpenMP
 
-Introduction to High Performance Computing course.
+... no ambiente Colab
