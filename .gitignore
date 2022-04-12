@@ -1,0 +1,6 @@
+*.c
+.cache
+*.so
+*.txt
+*.png
+wavefield/*
