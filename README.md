@@ -1,3 +1,3 @@
-# Programe sue GPU com OpenMP
+# Programe sua GPU com OpenMP
 
 ... no ambiente Colab
